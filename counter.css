@@ -1,0 +1,28 @@
+.main{
+    padding: 50px;
+    max-width: 400px;
+    max-height: 600px;
+    margin:auto;
+    background-color: rgb(207, 240, 240);
+    justify-content: space-between;
+}
+#a1{
+    height: 0.6cm;
+    border-radius: 5px;
+    width: 100px;
+}
+.button1{
+    border-radius: 5px;
+    background-color: rgb(94, 160, 94);
+    height: 28px;
+}
+.button2{
+    border-radius: 5px;
+    background-color: rgb(143, 75, 75);
+    height: 28px;
+}
+.button3{
+    border-radius: 5px;
+    background-color: rgb(133, 133, 58);
+    height: 28px;
+}
